@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <drawable name="default_background">#E6E6E6</drawable>
+  <drawable name="register_selected">#6f9abc</drawable>
+  <drawable name="register_normal">#3C8DC4</drawable>
+  
+</resources>
